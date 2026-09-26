@@ -19,8 +19,7 @@
 - 🌉 Focused on **REST APIs, microservices, and Web3 infrastructure**
 - 🤖 Integrating **AI services** (Gemini, Claude API) into production backends
 - 🧪 Currently deep in cross-chain bridge architecture between **Stacks** and **Base**
-- 🌱 Open to Go / Web3 backend roles, remote or relocation
-- ⚡ Fun fact: shipped a Telegram bot that won a hackathon in one weekend
+- Open to Go / Web3 backend roles, remote or relocation
 
 ---
 
